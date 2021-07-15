@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta charset="utf-8">
+
+<title></title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<style>
+
+</style>
+<script language='jscript'>
+var WshShell = new ActiveXObject("WScript.Shell");
+
+$(function(){
+
+
+    $("#btn").on( "click", function() {
+
+        WshShell.Exec("mspaint.exe");
+
+    });
+
+});
+</script>
+</head>
+<body>
+<h3 class="alert alert-primary">HTA サンプル</h3>
+<div id="content" class="m-5">
+<input id="btn" name="btn" type="button" value="実行" class="btn btn-primary">
+</div>
+</body>
+</html>
