@@ -8,3 +8,7 @@ var from = "メールアドレス";
 var pass = "パスワード";
 
 ```
+```html
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta charset="utf-8">
+```
