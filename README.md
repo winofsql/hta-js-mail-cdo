@@ -12,6 +12,8 @@ var pass = "パスワード";
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta charset="utf-8">
 ```
+
+## Visual Studio Code の settings.json
 ```javascript
 "files.associations": {
    "*.hta": "html"
