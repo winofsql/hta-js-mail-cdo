@@ -12,7 +12,7 @@ var pass = "パスワード";
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta charset="utf-8">
 ```
-```json
+```javascript
 "files.associations": {
    "*.hta": "html"
 }
