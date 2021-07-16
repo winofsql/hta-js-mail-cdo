@@ -21,3 +21,6 @@ var pass = "パスワード";
 ```
 ## mshta.exe は 32ビットアプリケーションです
 "C:\Windows\SysWOW64\mshta.exe"
+
+## WScript.Shell のドキュメント
+https://docs.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436(v=msdn.10)?redirectedfrom=MSDN
