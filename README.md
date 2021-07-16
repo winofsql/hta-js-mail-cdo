@@ -19,3 +19,5 @@ var pass = "パスワード";
    "*.hta": "html"
 }
 ```
+## mshta.exe は 32ビットアプリケーションです
+"C:\Windows\SysWOW64\mshta.exe"
