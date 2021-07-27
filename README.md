@@ -1,4 +1,5 @@
 # HTML アプリケーション : CDO によるメール送信
+HTA + JScript で CDO を使用してメール送信
 ```javascript
 var cdo = new ActiveXObject("CDO.Message");
 var server = "smtp.lolipop.jp";
