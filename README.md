@@ -25,3 +25,6 @@ var pass = "パスワード";
 
 ## WScript.Shell のドキュメント
 [Microsoft : Wscript.Shell](https://docs.microsoft.com/ja-jp/previous-versions/windows/scripting/cc364436(v=msdn.10)?redirectedfrom=MSDN)
+
+## Windows の .hta に対する最初の処理
+![image](https://user-images.githubusercontent.com/1501327/131952940-51074047-948e-46db-be28-bfff88cc3f50.png)
