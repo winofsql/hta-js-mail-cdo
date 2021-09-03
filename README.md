@@ -2,11 +2,7 @@
 HTA + JScript で CDO を使用してメール送信
 ## add settings.json ( Code Runner )
 ```
-    "code-runner.showRunIconInEditorTitleMenu": false,
-    "code-runner.executorMapByFileExtension": {
-        ".hta": "C:\\Windows\\SysWOW64\\mshta.exe",
-        ".htm": "C:\\Windows\\SysWOW64\\mshta.exe"
-    }
+    "code-runner.showRunIconInEditorTitleMenu": false
 ```
 ## CDO
 ```javascript
